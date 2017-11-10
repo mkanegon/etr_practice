@@ -10,7 +10,7 @@ public class Main {
 		a = 5;
 
 		for(k = 0; k <= a; k++) {
-		System.out.print(k );
+		System.out.print(k);
 	    }
 	}
 }
